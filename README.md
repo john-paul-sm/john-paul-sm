@@ -4,9 +4,7 @@ I'm currently an Electrical Engineering & Computer Engineering student at CWRU. 
 
 ## 🔭 Active Projects
 
-### ...
-
-Working on a 5-stage pipelined RV32I processor targeting the SKY130 PDK.
+### INT8
 
 ### ...
 
@@ -26,6 +24,7 @@ Working on a 5-stage pipelined RV32I processor targeting the SKY130 PDK.
 ![Verilator](https://img.shields.io/badge/Verilator-C2185B?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-008000?style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-6D4C41?style=for-the-badge)
+![OpenSTA](https://img.shields.io/badge/OpenSTA-G7415A?style=for-the-badge)
 
 **Programming:**
 
