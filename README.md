@@ -1,22 +1,43 @@
+<div align="center">
+
 # Hi, I'm JP! 👋
 
-I'm currently an Electrical Engineering & Computer Engineering student at CWRU. I'm mainly interested in hardware design, and I co-founded ASICWRU at my school to help students explore chip design and give them experience through meaningful projects.
+<a href="https://github.com/john-paul-sm">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7B1FA2&center=true&vCenter=true&width=600&lines=EE+%26+CE+%40+CWRU;RTL+Design+%E2%80%A2+Verification+%E2%80%A2+Computer+Architecture;Co-founder+of+ASICWRU" alt="Typing SVG" />
+</a>
 
-## 🔭 Active Projects
+</div>
 
-### INT8
+I'm currently an Electrical Engineering & Computer Engineering student at CWRU. I'm mainly interested in hardware design, and I co-founded **[ASICWRU](https://github.com/asicwru)** at my school to help students explore chip design and give them experience through meaningful projects.
 
-### ...
+---
 
-### ...
+## 🔭 Projects
 
-## 🔧 My Stack
+| Project | Status |
+| :--- | :--- |
+| [Pipelined RISC-V Processor](https://github.com/john-paul-sm/Pipelined-RISCV) | Complete |
+| [Asynchronous FIFO (UVM)](https://github.com/john-paul-sm/Asynchronous-FIFO) | Complete |
+| [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) | Complete |
+| [MemCTRL: DDR4 Memory Controller](https://github.com/john-paul-sm/MemCTRL) | In Progress |
+| [CWRUPIO](https://github.com/asicwru/cwrupio) | In Progress |
+| [ECSE 318 Labs](https://github.com/john-paul-sm/ECSE318_Labs) | Coursework |
 
-**RTL Design:** 
+---
 
-![Verilog](https://img.shields.io/badge/Verilog-7B1FA2?style=for-the-badge) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-283593?style=for-the-badge) ![RISC-V](https://img.shields.io/badge/RISC--V-F2A900?style=for-the-badge&logo=riscv&logoColor=black)
+## 🔧 Skills
 
-**EDA Tools:**
+**RTL Design**
+
+![Verilog](https://img.shields.io/badge/Verilog-7B1FA2?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-283593?style=for-the-badge)
+![RISC-V](https://img.shields.io/badge/RISC--V-F2A900?style=for-the-badge&logo=riscv&logoColor=black)
+
+**Verification**
+
+![UVM](https://img.shields.io/badge/UVM-1565C0?style=for-the-badge)
+
+**EDA Tools**
 
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-000000?style=for-the-badge)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-009999?style=for-the-badge)
@@ -24,9 +45,9 @@ I'm currently an Electrical Engineering & Computer Engineering student at CWRU. 
 ![Verilator](https://img.shields.io/badge/Verilator-C2185B?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-008000?style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-6D4C41?style=for-the-badge)
-![OpenSTA](https://img.shields.io/badge/OpenSTA-G7415A?style=for-the-badge)
+![OpenSTA](https://img.shields.io/badge/OpenSTA-E7415A?style=for-the-badge)
 
-**Programming:**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
