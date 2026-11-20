@@ -10,7 +10,7 @@ I'm currently an Electrical Engineering & Computer Engineering student at CWRU. 
 
 ### [UVM Verification of Asynchronous FIFO](https://github.com/john-paul-sm/Asynchronous-FIFO) (Complete)
 
-### [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) (Complete)
+### [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) (Complete, Taped out June 2026)
 
 ### [MemCTRL: DDR4 Memory Controller](https://github.com/john-paul-sm/MemCTRL) (In Progress)
 
