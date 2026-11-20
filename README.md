@@ -6,15 +6,19 @@ I'm currently an Electrical Engineering & Computer Engineering student at CWRU. 
 
 ## 🔭 Projects
 
-### [Pipelined RISC-V Processor](https://github.com/john-paul-sm/Pipelined-RISCV) (Complete)
+### Complete
 
-### [UVM Verification of Asynchronous FIFO](https://github.com/john-paul-sm/Asynchronous-FIFO) (Complete)
+#### [UVM Verification of Asynchronous FIFO](https://github.com/john-paul-sm/Asynchronous-FIFO) (Oct 2026 – Nov 2026)
 
-### [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) (Complete, Taped out June 2026)
+#### [Pipelined RISC-V Processor](https://github.com/john-paul-sm/Pipelined-RISCV) (Aug 2026 – Oct 2026)
 
-### [MemCTRL: DDR4 Memory Controller](https://github.com/john-paul-sm/MemCTRL) (In Progress)
+#### [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) (Taped out June 2026)
 
-### [CWRUPIO](https://github.com/asicwru/cwrupio) (In Progress)
+### In Progress
+
+#### [MemCTRL: DDR4 Memory Controller](https://github.com/john-paul-sm/MemCTRL) (Oct 2026 – Present)
+
+#### [CWRUPIO](https://github.com/asicwru/cwrupio) (Sep 2026 – Present)
 
 ## 🔧 Skills
 
