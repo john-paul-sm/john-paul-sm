@@ -6,19 +6,19 @@ I'm currently an Electrical Engineering & Computer Engineering student at CWRU. 
 
 ## 🔭 Projects
 
+### Active
+
+#### [DDR4 Memory Controller](https://github.com/john-paul-sm/MemCTRL) (Oct 2026 – Present)
+
+#### [CWRUPIO](https://github.com/asicwru/cwrupio) (Sep 2026 – Present)
+
 ### Complete
 
 #### [UVM Verification of Asynchronous FIFO](https://github.com/john-paul-sm/Asynchronous-FIFO) (Oct 2026 – Nov 2026)
 
 #### [Pipelined RISC-V Processor](https://github.com/john-paul-sm/Pipelined-RISCV) (Aug 2026 – Oct 2026)
 
-#### [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) (Taped out June 2026)
-
-### In Progress
-
-#### [MemCTRL: DDR4 Memory Controller](https://github.com/john-paul-sm/MemCTRL) (Oct 2026 – Present)
-
-#### [CWRUPIO](https://github.com/asicwru/cwrupio) (Sep 2026 – Present)
+#### [Single Cycle RISC-V Processor](https://github.com/john-paul-sm/ASICWRU_SimpleCounter) (April 2026, [Taped out June 2026](https://tinytapeout.com/chips/ttgf26b/))
 
 ## 🔧 Skills
 
@@ -26,7 +26,7 @@ I'm currently an Electrical Engineering & Computer Engineering student at CWRU. 
 
 ![Verilog](https://img.shields.io/badge/Verilog-7B1FA2?style=for-the-badge) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-283593?style=for-the-badge) ![RISC-V](https://img.shields.io/badge/RISC--V-F2A900?style=for-the-badge&logo=riscv&logoColor=black)
 
-**Verification:**
+**Design Verification:**
 
 ![UVM](https://img.shields.io/badge/UVM-1565C0?style=for-the-badge)
 
